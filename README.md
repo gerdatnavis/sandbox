@@ -1,2 +1,2 @@
 # sandbox
-everything yu want to try goes in here
+everything you want to try goes in here
